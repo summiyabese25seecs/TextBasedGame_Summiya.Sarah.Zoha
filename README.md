@@ -1,7 +1,7 @@
 # Roles
 **Summiya Aurangzeb:** Made the initial program logic and wrote the code for Escape Mystery Game.  
 **Zoha Ahsan:** Managed readme and the documentation.  
-**Sarah Shahid:** Made the program logic and designed a detailed flow chart.  
+**Sarah Shahid:** Made the program logic and designed a detailed flow chart. Also Added a floor map to the game code. 
 
 ---
 
